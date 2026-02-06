@@ -39,20 +39,16 @@
 </p>
 
 ---
-<h1>Analytics Expertice</h1>
+<h1>📊 Analytics Expertise</h1>
 
-<img src="https://img.shields.io/badge/Data_Cleaning_&_Processing-4CAF50?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Wrangling-009688?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Exploratory_Data_Analysis-673AB7?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistical_Analysis-3F51B5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Visualization-E91E63?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dashboarding-FF9800?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Analysis-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-795548?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning_Frameworks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model_Evaluation_&_Validation-9C27B0?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Time_Series_Analysis-2196F3?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Business_Insights_&_Storytelling-607D8B?style=for-the-badge&logo=powerbi&logoColor=white"/>
+🧹 Data Cleaning & Processing 
+🔎 Descriptive Analytics.
+🧠 Diagnostic Analytics.
+🗄️ Data Collection.
+🔍 EDA(Expolatory Data Anaytics).
+📊 Visualization Modeling.
+📐 Statistics & Business Analytics.
+🤖 Machine Learning
 
 ## 📂 Featured Projects
 
