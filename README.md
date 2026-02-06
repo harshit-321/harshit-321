@@ -41,14 +41,14 @@
 ---
 <h1>📊 Analytics Expertise</h1>
 
-🧹 Data Cleaning & Processing 
+🧹 Data Cleaning & Processing. 
 🔎 Descriptive Analytics.
 🧠 Diagnostic Analytics.
 🗄️ Data Collection.
 🔍 EDA(Expolatory Data Anaytics).
 📊 Visualization Modeling.
 📐 Statistics & Business Analytics.
-🤖 Machine Learning
+🤖 Machine Learning.
 
 ## 📂 Featured Projects
 
